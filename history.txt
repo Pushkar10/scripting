@@ -1,0 +1,1008 @@
+bigdata
+hello.sh
+history.txt
+scripts
+ 1039  R
+ 1040  sudo apt-get install r-cran-ggplot2
+ 1041  spyder
+ 1042  conda install graphviz
+ 1043  conda install python-graphviz
+ 1044  spyder
+ 1045  conda install apyori
+ 1046  pip install apyori
+ 1047  pip install Apyori
+ 1048  pip install pyfpgrowth
+ 1049  pip install nltk
+ 1050  nltk.download('punkt')
+ 1051  nltk.download punkt
+ 1052  spyder
+ 1053  r
+ 1054  R
+ 1055  pip install tensorflow
+ 1056  spyder
+ 1057  pip install keras
+ 1058  pip install theano
+ 1059  pip install --upgrade pip
+ 1060  tensorflow
+ 1061  keras
+ 1062  pip install --upgrade tensorflow
+ 1063  conda install tensorflow
+ 1064  sqlplus dbda12/dbda12@192.168.1.68/oracle
+ 1065  spyder
+ 1066  sqlplus dbda12/dbda12@192.168.1.67/oracle
+ 1067  spyder
+ 1068  ./spark-submit --class com.mlibspark.MyMovies /home/student/EclipseJava/SparkMLIB/target/SparkMLIB-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+ 1069  ./spark-submit --master local[*] --class com.mlibspark.MyMovies /home/student/EclipseJava/SparkMLIB/target/SparkMLIB-0.0.1-SNAPSHOT-jar-with-dependencies.jar /home/student/Desktop/sample_movielens_data.txt
+ 1070  ./spark-submit --master local[*] --class com.mlibspark.MyClassification /home/student/EclipseJava/SparkMLIB/target/SparkMLIB-0.0.1-SNAPSHOT-jar-with-dependencies.jar /home/student/Desktop/sample_movielens_data.txt
+ 1071  hive
+ 1072  start
+ 1073  su hduser
+ 1074  start-all.sh
+ 1075  hive
+ 1076  history
+ 1077  clear screen
+ 1078  clear screen;
+ 1079  clear;
+ 1080  psw;
+ 1081  psw
+ 1082  pwd
+ 1083  ls
+ 1084  psw
+ 1085  man
+ 1086  man psw
+ 1087  man ls
+ 1088  ps
+ 1089  ps tree
+ 1090  pstree
+ 1091  clear
+ 1092  ls
+ 1093  tar -czvf file5.tar file5 
+ 1094  ls
+ 1095  cd..
+ 1096  cd..Download
+ 1097  cd.
+ 1098  ls
+ 1099  clear
+ 1100  ls
+ 1101  cd Download
+ 1102  bash Question2.sh
+ 1103  #
+ 1104  echo '$(date)'
+ 1105  $(date)
+ 1106  > file1
+ 1107  pip install request
+ 1108  su hduser
+ 1109  spyder
+ 1110  su hduser
+ 1111  pip install pyhive
+ 1112  sudo apt-get install gcc
+ 1113  pip install thrift+
+ 1114  pip install thrift
+ 1115  pip install sasl
+ 1116  pip install thrift_sasl
+ 1117  pip install pyhive
+ 1118  sudo apt-get install libsasl2-dev
+ 1119  pip install thrift_sasl
+ 1120  sudo apt-get install libsasl2-dev
+ 1121  pip install sasl
+ 1122  pip install thrift_sasl
+ 1123  shutdown -h now
+ 1124  ls
+ 1125  hive-site.xml
+ 1126  su hduser
+ 1127  sudo usermod -a -G root hduser
+ 1128  cd
+ 1129  sudo -u hdfs hadoop fs -mkdir /user/myfile
+ 1130  sudo -u hduser hadoop fs -mkdir /user/myfile
+ 1131  pip install hdfs3
+ 1132  echo "deb https://dl.bintray.com/wangzw/deb trusty contrib" | sudo tee /etc/apt/sources.list.d/bintray-wangzw-deb.list
+ 1133  sudo apt-get install -y apt-transport-https
+ 1134  echo "deb https://dl.bintray.com/wangzw/deb trusty contrib" | sudo tee /etc/apt/sources.list.d/bintray-wangzw-deb.list
+ 1135  sudo apt-get install -y apt-transport-https
+ 1136  sudo apt-get update
+ 1137  sudo apt-get install libhdfs3 libhdfs3-dev
+ 1138  pip install hdfs3
+ 1139  git clone git@github.com:dask/hdfs3
+ 1140  cd hdfs3
+ 1141  git clone git@github.com:dask/hdfs3
+ 1142  sudo apt install git
+ 1143  cd hdfs3
+ 1144  git clone git@github.com:dask/hdfs3
+ 1145  sudo git clone git@github.com:dask/hdfs3
+ 1146  sudo chown 777 /home/student
+ 1147  su hduser
+ 1148  su hduser
+ 1149  start-all.sh
+ 1150  su hduser
+ 1151  spyder
+ 1152  su hduser
+ 1153  spyder
+ 1154  pip install pandas==0.25.0
+ 1155  pip install pandas==0.22
+ 1156  stop-all.sh
+ 1157  su hduser
+ 1158  spyder
+ 1159  su hduser
+ 1160  tar xvzf PyQt4_gpl_x11-4.12.3.tar.gz 
+ 1161  cd PyQt4_gpl_x11-4.12.3/
+ 1162  ls
+ 1163  python configure-ng.py
+ 1164  pip insatll PyQt
+ 1165  pip install PyQt
+ 1166  spyder
+ 1167  su hduser
+ 1168  sudo mysql -u root -p
+ 1169  sudo apt-get install mysql-server
+ 1170  sudo apt-get install libmysql-java
+ 1171  ln -s /usr/share/java/mysql-connector-java.jar /usr/local/hive/lib/mysql-connector-java.jar
+ 1172  sudo ln -s /usr/share/java/mysql-connector-java.jar /usr/local/hive/lib/mysql-connector-java.jar
+ 1173  hiveserver2
+ 1174  su hduser
+ 1175  sudo apt install kazam
+ 1176  sudo add-apt-repository ppa:kazam-team/unstable-series
+ 1177  udo apt update
+ 1178  sudo apt install kazam python3-cairo python3-xlib
+ 1179  cd /usr/local/hive/scripts/metastore/upgrade/mysql/ 
+ 1180  su hduser
+ 1181  sudo mysql -u root -p
+ 1182  cd
+ 1183  spyder
+ 1184  su hduser
+ 1185  su hduser
+ 1186  wget http://download.qt.io/official_releases/qt/5.7/5.7.0/qt-opensource-linux-x64-5.7.0.run
+ 1187  chmod +x qt-opensource-linux-x64-5.7.0.run
+ 1188  ls
+ 1189  chmod qt-unified-linux-x64-3.1.1-online.run
+ 1190  chmod qt-unified-linux-x64-3.1.1-online.run ./qt-unified-linux-x64-3.1.1-online.run 
+ 1191  sudo chmod qt-unified-linux-x64-3.1.1-online.run
+ 1192  sudo apt-get install build-essential
+ 1193  sudo apt-get install libfontconfig1
+ 1194  sudo apt-get install mesa-common-dev
+ 1195  sudo apt-get install libglu1-mesa-dev -y
+ 1196  su hduser
+ 1197  whereis cassendra
+ 1198  spyder
+ 1199  del DBDA
+ 1200  delete DBDA
+ 1201  erase DBDA
+ 1202  del DBDA
+ 1203  ..
+ 1204  /..
+ 1205  appwiz.cpl
+ 1206  sqlplus dbda13/dbda13@192.168.1.67/oracle
+ 1207  sqlplus dbda13/dbda13@192.16.1.67/oracle
+ 1208  sqlplus dbda13/dbda13@192.168.1.67/oracle
+ 1209  sqlpus dbda13/dbda13@192.168.1.67/oracle
+ 1210  sqlplus dbda13/dbda13@192.168.1.67/oracle
+ 1211  SQLPLUS DBDA/DBDA13@192.168.1.67/ORACLE
+ 1212  sqlplus dbda13/dbda13@192.168.1.67/oracle
+ 1213  java
+ 1214  cd ..
+ 1215  cd home/
+ 1216  cd student/
+ 1217  cd cd..
+ 1218  cd ..
+ 1219  cd .
+ 1220  cd ..
+ 1221  cd home/student/Desktop/SuyashPushkar
+ 1222  cd Desktop
+ 1223  cd ..
+ 1224  ls
+ 1225  cd home
+ 1226  ls
+ 1227  cd student/
+ 1228  ls
+ 1229  cd Desktop
+ 1230  ls
+ 1231  cd Suyash_Pushkar/
+ 1232  ls
+ 1233  cd JAVA
+ 1234  java
+ 1235  javac Hello.java
+ 1236  java Hello
+ 1237  cd Desktop/
+ 1238  ls
+ 1239  cd Desktop/
+ 1240  ls
+ 1241  cd Suyash_Pushkar/
+ 1242  ls
+ 1243  Hello.java
+ 1244  javac Hello.java
+ 1245  cd JAVA
+ 1246  javac Hello.java
+ 1247  java Hello
+ 1248  cd
+ 1249  cd home/
+ 1250  cd ls
+ 1251  ls
+ 1252  cd Home/
+ 1253  cd Desktop/
+ 1254  cd Home/
+ 1255  ls
+ 1256  cd Suyash_Pushkar/
+ 1257  cd JAVA
+ 1258  javac Hello.java
+ 1259  java Hello
+ 1260  cd Desktop/
+ 1261  ls
+ 1262  Suyash_Pushkar/JAVA/
+ 1263  LS
+ 1264  Suyash_Pushkar/
+ 1265  LS
+ 1266  ls
+ 1267  Suyash_Pushkar/
+ 1268  cd JAVA
+ 1269  cd Suyash_Pushkar/
+ 1270  ls
+ 1271  javac Hello.c
+ 1272  javac Hello.java
+ 1273  cd Home/
+ 1274  ls
+ 1275  cd ..
+ 1276  cd student/
+ 1277  cd Desktop
+ 1278  cd Suyash_Pushkar/
+ 1279  cd JAVA/
+ 1280  javac DemoDate.java
+ 1281  javac DateDemo.java
+ 1282  java DateDemo
+ 1283  ls
+ 1284  javac Date.java
+ 1285  java Date
+ 1286  javac DateDemo.java
+ 1287  java DateDemo
+ 1288  cd..
+ 1289  cd Home/
+ 1290  cd ..
+ 1291  cd Desktop/
+ 1292  ls
+ 1293  cd student/
+ 1294  ls
+ 1295  cd Desktop/
+ 1296  ls
+ 1297  Suyash_Pushkar/
+ 1298  cd Java/
+ 1299  ls
+ 1300  Suyash_Pushkar/
+ 1301  ls
+ 1302  cd JAVA;
+ 1303  LS
+ 1304  ls
+ 1305  Suyash_Pushkar/
+ 1306  ls
+ 1307  cd Suyash_Pushkar/
+ 1308  cd JAVA
+ 1309  cd Home/
+ 1310  cd..
+ 1311  cd ..
+ 1312  cd home/
+ 1313  cd home
+ 1314  cd Home
+ 1315  cd Desktop
+ 1316  cd student/
+ 1317  cd Desktop
+ 1318  cd Suyash_Pushkar/
+ 1319  cd JAVA
+ 1320  javac Date*.java
+ 1321  java DateDemo
+ 1322  javac Circle*.java
+ 1323  java CircleDemo
+ 1324  java Circle
+ 1325  javac Circle*.java
+ 1326  java CircleDemo
+ 1327  javac Box*.java
+ 1328  java BoxDemo
+ 1329  javac Box*.java
+ 1330  java BoxDemo
+ 1331  sqlplus dbda13/dbda13@192.16.1.67/oracle
+ 1332  sqlplus
+ 1333  sqlplus dbda13/dbda13@192.16.1.67/oracle;
+ 1334  sqlplus dbda13/dbda13@192.168.1.67/oracle;
+ 1335  java
+ 1336  cd Desktop
+ 1337  cd Suyash_Pushkar/
+ 1338  cd JAVA/
+ 1339  javac Person*.java
+ 1340  java PersonDemo
+ 1341  javac Person*.java
+ 1342  java PersonDemo
+ 1343  javac Person*.java
+ 1344  java PersonDemo
+ 1345  javac Book.java
+ 1346  javac BookDemo.java
+ 1347  java BookDemo
+ 1348  javac Book*.java
+ 1349  java BookDemo
+ 1350  javac Book*.java
+ 1351  java BookDemo
+ 1352  javac Book*.java
+ 1353  java BookDemo
+ 1354  javac Student.java
+ 1355  javac StudentDemo.java
+ 1356  javac Student.java
+ 1357  javac StudentDemo.java
+ 1358  javac Student.java
+ 1359  javac StudentDemo.java
+ 1360  javac Student.java
+ 1361  javac StudentDemo.java
+ 1362  javac Book.java
+ 1363  javac BookDemo.java
+ 1364  java BookDemo
+ 1365  javac Student.java
+ 1366  javac StudentDemo.java
+ 1367  javac Student.java
+ 1368  javac StudentDemo.java
+ 1369  javac Student.java
+ 1370  javac StudentDemo.java
+ 1371  javac Student.java
+ 1372  javac StudentDemo.java
+ 1373  java StudentDemo
+ 1374  javac Student.java
+ 1375  javac StudentDemo.java
+ 1376  java StudentDemo
+ 1377  javac Student.java
+ 1378  javac StudentDemo.java
+ 1379  java StudentDemo
+ 1380  javac Student.java
+ 1381  javac StudentDemo.java
+ 1382  java StudentDemo
+ 1383  javac ColorPoint.java
+ 1384  javac ColorPointDemo.java
+ 1385  java ColorPointDemo
+ 1386  javac ColorPoint.java
+ 1387  javac ColorPointDemo.java
+ 1388  java ColorPointDemo
+ 1389  javac Array.java
+ 1390  java Array
+ 1391  javac Array.java
+ 1392  java Array
+ 1393  javac Array.java
+ 1394  java Array
+ 1395  javac Stack.java
+ 1396  javac StackDemo.java
+ 1397  java StackDemo
+ 1398  javac Array.java
+ 1399  java Array
+ 1400  javac ColorPoint.java
+ 1401  javac ColorPointDemo.java
+ 1402  java ColorPointDemo
+ 1403  javac ColorPoint.java
+ 1404  javac ColorPointDemo.java
+ 1405  javac ColorPointDemo
+ 1406  java ColorPointDemo
+ 1407  javac Line.java
+ 1408  javac Line*.java
+ 1409  java LineDemo
+ 1410  javac Line*.java
+ 1411  java LineDemo
+ 1412  javac Date.java
+ 1413  rm Date.class
+ 1414  javac Date.java
+ 1415  javac DateDemo.java
+ 1416  java DateDemo
+ 1417  javac Date.java
+ 1418  javac DateDemo.java
+ 1419  javac Date.java
+ 1420  javac DateDemo.java
+ 1421  javac Date.java
+ 1422  javac DateDemo.java
+ 1423  javac Palindrome.java
+ 1424  java Palindrome
+ 1425  javac Palindrome.java
+ 1426  java Palindrome
+ 1427  javac Palindrome.java
+ 1428  java Palindrome
+ 1429  javac Palindrome.java
+ 1430  java Palindrome
+ 1431  javac Palindrome.java
+ 1432  java Palindrome
+ 1433  javac LuckyNumberGenerator.java 
+ 1434  ld
+ 1435  ls
+ 1436  javac -d . Date.java 
+ 1437  javac -d . Student.java 
+ 1438  javac -d . Trainer.java 
+ 1439  javac PackageApp.java
+ 1440  java
+ 1441  javac -d . Date.java
+ 1442  javac -d . Student.java
+ 1443  javac -d . Trainer.java
+ 1444  javac PackageApp.java
+ 1445  java PackageApp
+ 1446  rm PackageApp.class
+ 1447  javac PackageApp.java 
+ 1448  export CLASSPATH=.:/home/student/Desktop/Suyash_Pushkar/JAVA
+ 1449  javac PackageApp.java 
+ 1450  java PackageApp
+ 1451  jar -cvf mylib.jar /home/student/Desktop/Suyash_Pushkar/JAVA/office
+ 1452  ls
+ 1453  rm PackageApp.class
+ 1454  export CLASSPATH=.:/home/student/Desktop/Suyash_Pushkar/javaclasses/mylib.jar
+ 1455  javac PackageApp.java 
+ 1456  ls
+ 1457  export CLASSPATH=.:/home/student/Desktop/Suyash_Pushkar/javaclasses/mylib.jar
+ 1458  javac PackageApp.java 
+ 1459  rm mylib.jar 
+ 1460  ls
+ 1461  jar /home/student/Desktop/Suyash_Pushkar/JAVA
+ 1462  jar -cvf mylib.jar office
+ 1463  ls
+ 1464  export CLASSPATH=.:/home/student/Desktop/Suyash_Pushkar/javaclasses/mylib.jar
+ 1465  jar -tvf mylib.jar
+ 1466  javac PackageApp.java
+ 1467  rm mylib.jar 
+ 1468  jar -cvf mylib.jar office
+ 1469  javac packageApp.java
+ 1470  javac PackageApp.java
+ 1471  jar -tvf mylib.jar
+ 1472  javac PackageApp.java
+ 1473  rm PackageApp.class
+ 1474  ls
+ 1475  javac PackageApp.java 
+ 1476  ls
+ 1477  jar -cvfm myapp.jar mymanifest.mf office PackageApp.class
+ 1478  ls
+ 1479  java -jar myapp.jar
+ 1480  rm PackageApp.class
+ 1481  javac PackageApp.java
+ 1482  java PackageApp
+ 1483  javac PackageApp.java
+ 1484  java PackageApp
+ 1485  javac -d . PackageApp.java
+ 1486  java PackageApp
+ 1487  export CLASSPATH=.
+ 1488  export CLASSPATH=.:/home/student/Desktop/Suyash_Pushkar/javaclasses/app
+ 1489  ls
+ 1490  java PackageApp
+ 1491  java app.PackageApp
+ 1492  sudo apt-get install mongodb
+ 1493  sudo apt-get install MongoDB
+ 1494  sudo apt-get install mongodb
+ 1495  sqlplus
+ 1496  sqlplus dbda13/dbda13@192.168.1.67/oracle
+ 1497  mongo
+ 1498  update mongodb
+ 1499  pip update mongo
+ 1500  update
+ 1501  sudo apt-get update mongodb
+ 1502  sudo apt-get update
+ 1503  sudo apt-get install mongodb
+ 1504  sudo apt install -y mongodb
+ 1505  sudo apt-get update
+ 1506  sudo apt install mongodb
+ 1507  sudo apt-get update
+ 1508  sudo apt install -y mongodb
+ 1509  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10
+ 1510  echo "deb http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.4 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.4.list
+ 1511  sudo apt-get update
+ 1512  sudo service mongodb start
+ 1513  sudo service mongod start
+ 1514  mongo
+ 1515  sqlplus
+ 1516  sqlplus dbda13/dbda@192.168.1.67/oracle
+ 1517  sqlplus dbda13/dbda13@192.168.1.67/oracle
+ 1518  sudo service mongod start
+ 1519  mongo
+ 1520  sudo service mongod start
+ 1521  use aug_dba
+ 1522  show collection
+ 1523  show collections
+ 1524  show dbs
+ 1525  show db
+ 1526  db
+ 1527  show db
+ 1528  show dbs
+ 1529  mongo
+ 1530  sudo service mongod start
+ 1531  mongo
+ 1532  sqlplus dbda13/dbda13@192.168.1.67/oracle
+ 1533  sqlplus dbda13/dbba13@192.168.1.67/oracle
+ 1534  sqlplus dbda13/dbda13@192.168.1.67/oracle
+ 1535  sqlplus dbda18/dbda18@192.168.1.67/oracle
+ 1536  sudo service mongod start
+ 1537  mongo
+ 1538  192.168.1.17
+ 1539  192.168.1.17/
+ 1540  ip a
+ 1541  scp -r 1.vdi student@192.168.1.21:~/Softwares/
+ 1542  cd
+ 1543  ssh user@198.168.1.21 -p 22
+ 1544  ssh student@198.168.1.21 -p 22
+ 1545  sqlplus
+ 1546  a13@192.168.1.67/oracle
+ 1547  sudo serive mongod start;
+ 1548  sudo service mongod start;
+ 1549  mongo
+ 1550  ls
+ 1551  java PacketSender
+ 1552  ls
+ 1553  java PacketSender
+ 1554  ls
+ 1555  java PacketReceiver
+ 1556  ls
+ 1557  java Server
+ 1558  java Client
+ 1559  java Client 
+ 1560  java Server 
+ 1561  java Client 
+ 1562  ls
+ 1563  java Server
+ 1564  java Client 
+ 1565  java Server 
+ 1566  java PacketReceiver 
+ 1567  java Assignment1.PacketReceiver 
+ 1568  cd..
+ 1569  cd ..
+ 1570  ls
+ 1571  java Assignment1.PacketReceiver 
+ 1572  cd ..
+ 1573  java Assignment1.PacketSender 
+ 1574  cd ..
+ 1575  java Assignment1.Client 
+ 1576  java Server 
+ 1577  ls
+ 1578  cd ..
+ 1579  java Assignment1.Client 
+ 1580  java Assignment1.Server
+ 1581  cd ..
+ 1582  java Assignment1.Server 
+ 1583  cd ..
+ 1584  java Assignment1.Client 
+ 1585  cd ..
+ 1586  java Assignment1.Client 
+ 1587  cd ..
+ 1588  java Assignment1.Server 
+ 1589  cd ..
+ 1590  java Assignment1.Client 
+ 1591  cd ..
+ 1592  java Assignment1.Server 
+ 1593  cd ..
+ 1594  java Assignment1.Client 
+ 1595  ls
+ 1596  java Server 
+ 1597  cd ..
+ 1598  java Assignment1.Server 
+ 1599  cd ..
+ 1600  java Assignment1.Server 
+ 1601  cd ..
+ 1602  java Assignment1.Client 
+ 1603  cd ..
+ 1604  java Assignment1.Server 
+ 1605  cd ..
+ 1606  java Assignment1.Client 
+ 1607  cd ..
+ 1608  java Assignment1.Server 
+ 1609  cd ..
+ 1610  java Assignment1.Client 
+ 1611  cd ..
+ 1612  java Assignment1.Server 
+ 1613  cd ..
+ 1614  java Assignment1.Client 
+ 1615  cd ..
+ 1616  java Assignment1.Server 
+ 1617  cd ..
+ 1618  java Assignment1.Client 
+ 1619  who am i
+ 1620  wh am i?
+ 1621  who am i
+ 1622  who am i?
+ 1623  whoan=mi
+ 1624  whoami
+ 1625  sqlplus dbda19/dbda19@192.168.1.67/oracle
+ 1626  shutdown
+ 1627  reboot
+ 1628  linux --version
+ 1629  linux
+ 1630  lsb release -a
+ 1631  lsb_release -a
+ 1632  cat /etc/os-release
+ 1633  touch hello.txt
+ 1634  touch dbda.txt
+ 1635  nano hello.txt
+ 1636  man ls
+ 1637  cls
+ 1638  cat /etc//os-release
+ 1639  pwd
+ 1640  clear
+ 1641  whoami
+ 1642  hostname
+ 1643  uname
+ 1644  ps
+ 1645  history
+ 1646  last reboot
+ 1647  shut down
+ 1648  shut Down
+ 1649  Shutdown
+ 1650  shutdown
+ 1651  last reboot
+ 1652  uptime
+ 1653  date
+ 1654  cal
+ 1655  man 
+ 1656  man cal
+ 1657  date
+ 1658  date -d
+ 1659  date +D
+ 1660  date +%D
+ 1661  date +%d
+ 1662  date +%y
+ 1663  date +%Y
+ 1664  free - m
+ 1665  who
+ 1666  id
+ 1667  last
+ 1668  useradd
+ 1669  man useradd
+ 1670  useradd pushkarn
+ 1671  sudo useradd pushkarn
+ 1672  show user
+ 1673  clear
+ 1674  histroy
+ 1675  history
+ 1676  sudo userdelete pushkarn
+ 1677  pwd
+ 1678  ls
+ 1679  cd Desktop
+ 1680  touch dbda.txt
+ 1681  nano dbda.txt
+ 1682  cat dbda.txt
+ 1683  nano dbda.txt
+ 1684  touch hello.cpp
+ 1685  nano hello.cpp
+ 1686  cat hello.cpp
+ 1687  nano hello.cpp
+ 1688  touch hello.c
+ 1689  nano hello.c
+ 1690  cat dbda.txt
+ 1691  cd Desktop
+ 1692  cat dbda.txt
+ 1693  cd..
+ 1694  cd ..
+ 1695  touch hello.txt
+ 1696  nano hello.txt
+ 1697  cat hello.txt
+ 1698  cal 1 2019
+ 1699  ifconf
+ 1700  ifconfig
+ 1701  man ifconfig
+ 1702  ifconfig -v
+ 1703  ifconfig -a
+ 1704  ifconfig -s
+ 1705  ping 192.168.1.300
+ 1706  ping 192.168.1.30
+ 1707  whois domain
+ 1708  sudo apt install whois
+ 1709  whois domain
+ 1710  gcc -
+ 1711  gcc
+ 1712  gcc -v
+ 1713  clear
+ 1714  pwd
+ 1715  ls
+ 1716  touch hello.c
+ 1717  vi hello.c
+ 1718  gcc -v
+ 1719  nano hello.c
+ 1720  gcc.hello
+ 1721  gcc hello.c
+ 1722  cat hello.c
+ 1723  nano hello.c
+ 1724  cat hello.c
+ 1725  nano hello.c
+ 1726  cd
+ 1727  mkdir bigdata
+ 1728  ls
+ 1729  mkdir c
+ 1730  mkdir cpp
+ 1731  mkdir java
+ 1732  mkdir python
+ 1733  ls
+ 1734  mkdir pilab
+ 1735  cd c
+ 1736  ls
+ 1737  touch hello.c
+ 1738  ls
+ 1739  cat hello.c
+ 1740  touch search.c collection.c multitask.c
+ 1741  ls
+ 1742  touch search.c
+ 1743  cat hello.c
+ 1744  vi hello.c
+ 1745  cat hello.c
+ 1746  vi hello.c
+ 1747  CD
+ 1748  cd
+ 1749  cd 
+ 1750  clear
+ 1751  java --version
+ 1752  find bigdata*.c
+ 1753  find bigdata
+ 1754  shutdown
+ 1755  shutdown c
+ 1756  shut down
+ 1757  shutdown
+ 1758  touch hello.txt
+ 1759  ls 
+ 1760  ls -a
+ 1761  ls --hide=*.txt
+ 1762  ls
+ 1763  ls -a
+ 1764  cat cpp
+ 1765  cat hello.txt
+ 1766  nano hello.txt
+ 1767  cat hello.txt
+ 1768  touch dac.txt
+ 1769  nano dac.txt
+ 1770  cat hello.txt dac.txt
+ 1771  cat hello.txt dac.txt >>newcont.txt
+ 1772  cat newcont.txt
+ 1773  ls
+ 1774  ls >>myresult.txt
+ 1775  cat myresult.txt
+ 1776  history
+ 1777  history >> allcomands.txt
+ 1778  cat allcomands.txt
+ 1779  history
+ 1780  echo "welcome"
+ 1781  echo "Welcome to show" >>data.txt
+ 1782  cat data.txt
+ 1783  echo $count
+ 1784  echo "$count"
+ 1785  count
+ 1786  read count
+ 1787  cat data.txt
+ 1788  echo "$count"
+ 1789  cat data.txt
+ 1790  read count
+ 1791  echo "count = $count"
+ 1792  mk dir office
+ 1793  mkdir office
+ 1794  ls
+ 1795  mv *.txt /student/home/Desktop/Suyash_Pushkar/linux/bigdata/office
+ 1796  mv *.txt /home/student/Desktop/Suyash_Pushkar/linux/bigdata/office
+ 1797  ls office
+ 1798  ls
+ 1799  rm -r pilab
+ 1800  ls
+ 1801  ls office
+ 1802  cd office/
+ 1803  touch file1.txt file2.txt file3.txt file4.txt
+ 1804  ls
+ 1805  nano file1.txt
+ 1806  nano file2.txt
+ 1807  nano file3.txt
+ 1808  nano file4.txt
+ 1809  ls
+ 1810  man zip
+ 1811  zip office
+ 1812  zip -r office1.zip 
+ 1813  zip -r office1.zip office
+ 1814  zip file1.txt
+ 1815  gzip file1.txt
+ 1816  ls
+ 1817  gunzip file1.txt.gz
+ 1818  ls
+ 1819  man tar
+ 1820  gzip file1.txt -k
+ 1821  ls
+ 1822  cat file1.txt.gz
+ 1823  gunzip file1.txt.gz
+ 1824  gzip file1.txt -k
+ 1825  gunzip file1.txt.gz
+ 1826  ls
+ 1827  gzip file1.txt -k
+ 1828  ls
+ 1829  gunzip file1.txt.gz
+ 1830  ls
+ 1831  pwd
+ 1832  man tar
+ 1833  tar -czf archive.tar.gz file1.txt file2.txt file3.txt file4.txt
+ 1834  ls
+ 1835  tar -czf archive2.tar.gz *.txt
+ 1836  ls
+ 1837  tar -tf archive.tar.gz
+ 1838  rm *.txt
+ 1839  tar -xf archive2.tar.gz
+ 1840  ls
+ 1841  cd ..
+ 1842  mkdir company
+ 1843  cd office
+ 1844  tar -xf archive2.tar.gz -C /home/student/Desktop/Suyash_Pushkar/linux/bigdata/company
+ 1845  cd ..
+ 1846  ls company
+ 1847  cd office
+ 1848  ls
+ 1849  cat file1.txt'
+ 1850  cat file1.txt
+ 1851  cat file1.xml
+ 1852  touch data.xml
+ 1853  nano data.xml
+ 1854  cat data.xml
+ 1855  nano data.xml
+ 1856  cat data.xml
+ 1857  nano data.xml
+ 1858  cat data.xml
+ 1859  tar -xt archive2.tar.gz file1.txt
+ 1860  man tar
+ 1861  clear
+ 1862  ls
+ 1863  rm *.txt
+ 1864  tar -xf archive2.tar.gz file1.txt
+ 1865  ls
+ 1866  tar -xf archive2.tar.gz 
+ 1867  ls
+ 1868  hostname
+ 1869  who
+ 1870  id
+ 1871  w
+ 1872  who
+ 1873  w
+ 1874  getent passwd
+ 1875  finger
+ 1876  finger package installation
+ 1877  sudo apt install finger
+ 1878  finger
+ 1879  w
+ 1880  who -u
+ 1881  users
+ 1882  finger -s
+ 1883  finger -l
+ 1884  finger -p
+ 1885  finger -m
+ 1886  awk -F
+ 1887  $ awk -F':' '{ print $1}' /etc/passwd
+ 1888  getent passwd | grep
+ 1889  getent passwd | grep student
+ 1890  $ awk -F':'
+ 1891  man awk
+ 1892  getent passwd
+ 1893  sudo useradd user1 user2 user3
+ 1894  sudo useradd user1
+ 1895  sudo adduser user2
+ 1896  sudo adduser user3
+ 1897  uname
+ 1898  last rebbot
+ 1899  uptime
+ 1900  free -m
+ 1901  id
+ 1902  cal
+ 1903  last
+ 1904  who
+ 1905  ls
+ 1906  cd Desktop
+ 1907  cd Suyash_Pushkar/
+ 1908  cd linux/
+ 1909  cd bigdata/
+ 1910  cd c
+ 1911  ls
+ 1912  nano hello.c
+ 1913  gcc hello.c
+ 1914  ./a.out
+ 1915  rm -r search.c
+ 1916  ls
+ 1917  touch search.c
+ 1918  ls
+ 1919  cd /
+ 1920  clear
+ 1921  cat /proc/cpuinfo
+ 1922  cat /proc/meminfo
+ 1923  free -m
+ 1924  ps
+ 1925  ls
+ 1926  cd Desktop
+ 1927  ls --format single-column
+ 1928  ls --format ,
+ 1929  ls --format comma
+ 1930  ls -ltr
+ 1931  man ls -ltr
+ 1932  man
+ 1933  man ls -ltr
+ 1934  ls 
+ 1935  ls -s media
+ 1936  ls -s stage2.img
+ 1937  ls -s home
+ 1938  ls -sr
+ 1939  find*.txt
+ 1940  find *.txt
+ 1941  ls
+ 1942  find dir
+ 1943  find *.txt
+ 1944  ls -a
+ 1945  ls -al
+ 1946  ls
+ 1947  cd Desktop
+ 1948  ls
+ 1949  reboot
+ 1950  ssh 192.168.1.1
+ 1951  mkdir scripts
+ 1952  cd scripts/
+ 1953  touch hello.sh
+ 1954  nano hello.sh
+ 1955  ls
+ 1956  ./hello.sh
+ 1957  bash hello.sh
+ 1958  cat hello.sh
+ 1959  bash hello.sh
+ 1960  chmod -x
+ 1961  man chmod
+ 1962  chmod+x hello.sh
+ 1963  chmod +x hello.sh
+ 1964  ./hello.sh
+ 1965  nano hello.sh
+ 1966  bash hello.sh
+ 1967  nano hello.sh
+ 1968  bash hello.sh
+ 1969  nano hello.sh
+ 1970  bash hello.sh
+ 1971  nano hello.sh
+ 1972  bash hello.sh
+ 1973  nano hello.sh
+ 1974  bash hello.sh
+ 1975  nano hello.sh
+ 1976  bash hello.sh
+ 1977  nano hello.sh
+ 1978  bash hello.sh
+ 1979  nano hello.sh
+ 1980  bash hello.sh
+ 1981  nano hello.sh
+ 1982  bash hello.sh
+ 1983  nano hello.sh
+ 1984  y
+ 1985  nano hello.sh
+ 1986  bash hello.sh
+ 1987  ./hello.sh
+ 1988  nano hello.sh
+ 1989  vi hello.sh
+ 1990  cd hoome
+ 1991  cd home
+ 1992  cd Desktop
+ 1993  cd Suyash_Pushkar/
+ 1994  cd linux/
+ 1995  ls
+ 1996  cd scripts/
+ 1997  vi hello.sh
+ 1998  touch data.sh
+ 1999  vi data.sh
+ 2000  sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
+ 2001  cd
+ 2002  sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
+ 2003  cd Desktop/Suyash_Pushkar/linux/scripts
+ 2004  cd
+ 2005  deb [arch=amd64] http://packages.microsoft.com/repos/vscode stable main
+ 2006  curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
+ 2007  sudo mv microsoft.gpg /etc/apt/trusted.gpg.d/microsoft.gpg
+ 2008  sudo apt-get update
+ 2009  sudo apt-get install code
+ 2010  vi hello.sh
+ 2011  cd Desktop
+ 2012  cd Suyash_Pushkar/
+ 2013  ls
+ 2014  cd linux/
+ 2015  ls
+ 2016  ./hello.sh
+ 2017  chmod +x hello.sh
+ 2018  ./hello.sh
+ 2019  chmod +x hello.sh
+ 2020  ./hello.sh
+ 2021  chmod +x hello.sh
+ 2022  ./hello.sh
+ 2023  chmod +x hello.sh
+ 2024  ./hello.sh
+ 2025  bash hello.sh
+ 2026  chmod +x hello.sh
+ 2027  ./hello.sh
+ 2028  chmod +x hello.sh
+ 2029  ./hello.sh
+ 2030  ls
+ 2031  ls >> history.txt
+ 2032  cat history.txt 
+ 2033  vi hello.sh
+ 2034  ./hello.sh
+ 2035  cat history.txt
+ 2036  ls
+ 2037  history
+ 2038  history >> history.txt
+bigdata
+hello.sh
+history.txt
+scripts
